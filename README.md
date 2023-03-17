@@ -1,5 +1,5 @@
 # Image Gallery Website | NUYsDev 🖥️
-## [Preview](#) | [UI Design](#)
+## [Preview](https://rhr3032.github.io/nuysgallery/) | [UI Design](#)
 
 
 ### Include this Marketing Website ➡️
